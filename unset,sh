@@ -1,0 +1,7 @@
+# Unsetting varible name 
+# variable_name=variable_value
+
+NAME="maruti bandgar"
+
+unset NAME
+echo $NAME
